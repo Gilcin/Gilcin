@@ -1,4 +1,4 @@
-- 👋 Hello! I am Gilcimar,
+- 🖖 Hello! I am Gilcimar,
 - 👀 Programming assistant and Systems Analysis and Development student.
 - 💞️ Passionate about new technologies and a drawing enthusiast...
 - ⚡ Always looking to learn and contribute to innovative projects!
