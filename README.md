@@ -23,3 +23,7 @@
 Gilcin/Gilcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://raw.githubusercontent.com/Gilcin/Gilcin/output/snake.svg" alt="Snake animation" />
+
+###
